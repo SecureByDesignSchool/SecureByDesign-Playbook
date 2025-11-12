@@ -23,8 +23,7 @@ In our home networks we will have sensitive personal information about our famil
 
 We draw out each device in our house, and then draw a line between it and the router that it connects to, depending on whether it is wifi (orange) or cable (blue). You should also include visitor and guest devices. 
 
-![Banner](/examples/Network-Home.png)
-<img style="width: 85%" src="D:/code-workspace/SbD-Playbook@sbd/QuickPlaybook/assess/Network-Home.png"/>
+<img style="width: 85%" src="/examples/Network-Home.png"/>
 
 ### Threats
 
