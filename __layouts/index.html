@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My GitHub Pages Site</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="banner">
+    <img src="/examples/Network-Home.png" alt="Banner background">
+    <div class="overlay-text">Start Here</div>
+  </div>
+
+  <!-- Pull in Markdown content -->
+  {% capture readme %}
+    {% include_relative README.md %}
+  {% endcapture %}
+  {{ readme | markdownify }}
+</body>
+</html>
