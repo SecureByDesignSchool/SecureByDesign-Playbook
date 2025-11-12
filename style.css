@@ -14,7 +14,7 @@
   top: 50%;        /* vertical position */
   left: 50%;       /* horizontal position */
   transform: translate(-50%, -50%); /* center the text */
-  color: #1800ad;  /* text color */
+  color: red;  /* text color */
   font-size: 2em;  /* adjust size */
   font-weight: bold;
   font-family: sans-serif;
