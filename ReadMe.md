@@ -1,10 +1,7 @@
-![Banner](/Secure-by-Design-Playbook.png)
-
 <div class="banner">
-  <img src="/Secure-by-Design-Playbook.png alt="Banner background">
-  <div class="overlay-text">Start Here</div>
+  <img src="Secure-by-Design-Playbook.png" alt="Banner background">
+  <div class="overlay-text">Secure by Design Playbook</div>
 </div>
-
 
 This is a guide, with supporting material, to help you **assess security risks** for your small to medium size IT project.  It is intended for both technical and **non-technical staff**, at least during the early iterations, to help you **understand the interplay of risk costs and benefits**.
 
