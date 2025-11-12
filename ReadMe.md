@@ -1,7 +1,5 @@
 ![Banner](/Secure-by-Design-Playbook.png)
 
-# Secure By Design Playbooks
-
 This is a guide, with supporting material, to help you **assess security risks** for your small to medium size IT project.  It is intended for both technical and **non-technical staff**, at least during the early iterations, to help you **understand the interplay of risk costs and benefits**.
 
 This is different from using checklists of controls or mitigations (such as [NCSC's Cyber Essentials](https://www.ncsc.gov.uk/cyberessentials/)). Checklists can be quick, easy to use, and useful, but in unusual systems and circumstances such checklists can cause more harm than good.  The approach given here will show you how to rigorously approach security, with the right artefacts to engage with your security experts and auditors, for your situation. 
