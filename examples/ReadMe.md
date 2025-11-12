@@ -1,4 +1,4 @@
-# Playbook Examples
+![Banner](/examples/Playbook-Examples.png)
 
 This folder contains some worked examples of the playbook, so you can see how the output might look. 
 
