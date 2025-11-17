@@ -3,26 +3,25 @@
   <div class="overlay-text"></div>
 </div>
 
-This is a guide, with supporting material, to help you **assess security risks** for your small to medium size IT project.  It is intended for both technical and **non-technical staff**, at least during the early iterations, to help you **understand the interplay of risk costs and benefits**.
+This is a guide, with supporting material, to help you **assess security risks** for your small to medium size IT project.  It is intended for both technical and **non-technical staff**, at least during the early iterations, to help you **understand the interplay of risk costs and benefits**. 
 
-This is different from using checklists of controls or mitigations (such as [NCSC's Cyber Essentials](https://www.ncsc.gov.uk/cyberessentials/)). Checklists can be quick, easy to use, and useful, but in unusual systems and circumstances such checklists can cause more harm than good.  The approach given here will show you how to rigorously approach security, with the right artefacts to engage with your security experts and auditors, for your situation. 
+In particular this playbook will help you follow the UK government's [Secure By Design](https://www.security.gov.uk/policy-and-guidance/secure-by-design/) approach. It implements [NIST's Cyber Security Framework](https://www.nist.gov/cyberframework) and [Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf) which are widely recognised and will be familiar to your cyber security advisors and auditors.  Ready-made templates provided here match these standard frameworks, but you can use others. 
 
-In particular this playbook will help you comply with the UK government's [Secure By Design](https://www.security.gov.uk/policy-and-guidance/secure-by-design/). It implements [NIST's Cyber Security Framework](https://www.nist.gov/cyberframework) and [Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf) which are widely recognised and will be familiar to your cyber security advisors and auditors. The ready-made templates use these, but you can replace these with your own or others. These are combined into a risk assessment including likely adversary courses of action and what to monitor for, using an approach similar to western military "Intelligence Preparation of the Battlefield".
+The approach given here will show you how to rigorously approach security, with the right artefacts to engage with your security experts and auditors, for your situation. In common situations you could and should use ready-made checklists (such as [NCSC's Cyber Essentials](https://www.ncsc.gov.uk/cyberessentials/)) that list standard defenses to install. While these can be quick, easy to use, and useful, in unusual systems and circumstances such checklists can cause more harm than good.   
 
-We have provided [some examples here](./examples/). 
-
-This is auto-published to the [Secure By Design School pages](https://securebydesignschool.github.io/SecureByDesign-Playbook/), and is maintained on github at the [Secure By Design Playbook repository](https://github.com/SecureByDesignSchool/SecureByDesign-Playbook/) 
+This playbook is auto-published to the [Secure By Design School pages](https://securebydesignschool.github.io/SecureByDesign-Playbook/Playbook.md), and is maintained on github at the [Secure By Design Playbook repository](https://github.com/SecureByDesignSchool/SecureByDesign-Playbook/) 
 
 ## Start
 
-
 Want to just get started? Go straight to the [Playbook](Playbook.md)
+
+[Some examples here](./examples/) 
 
 ## Background 
 
 [Why SbD?](about/WhySbD.md)  Security is already designed into most systems; why do we need a concept called 'Secure By Design'? 
 
-[Why this playbook?](about/WhyPlaybook.md)  What does this give you on top of the existing cyber security frameworks
+[Why this playbook?](about/WhyPlaybook.md)  What does this give you on top of the existing cyber security frameworks?
 
 ## Managing your Assessment 
 
@@ -32,7 +31,7 @@ Want to just get started? Go straight to the [Playbook](Playbook.md)
 
 ### Who do you need?
 
-In principle you don't need to be technical to run the first iteration - and it may even be more useful not to be. It will be necessary however to have someone on hand who understands the 'space' that you are protecting: where your assets are located, which routes they are moved down or accessed through, where the boundaries are and what the connections are between the space you are protecting and the areas around it.
+In principle you don't need to be technical to run the first iteration - and it may even be more useful not to be. However you will need someone who understands the 'space' that you are protecting: where your assets are located, which routes they are moved down or accessed through, where the boundaries are and what the connections are between the space you are protecting and the areas around it.
 
 You should also have someone knowledgeable who can check your assessments, both to help assure *you* that you are doing the right thing (or correct you if you are not in some places) and also to assure your *customers* that what you are delivering is *suitably* secure.
 
@@ -47,12 +46,6 @@ For the risk assessment itself you can start with some spreadsheets which will b
 Help us improve: what terms here do you find alien, what would you use? What analogies or stories might you bring to help explain some concepts?
 
 [How to contribute](special/Contribute.md)
-
-**Examples and Specialist Themes**
-
-   * Tactical / Forward Military Commands
-   * Software Development Teams
-   * Home/Small Office Networks
 
 ## Related
 
