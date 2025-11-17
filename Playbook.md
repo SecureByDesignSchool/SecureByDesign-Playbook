@@ -1,6 +1,5 @@
 # The Playbook
-
-<pre class="mermaid">
+```mermaid 
 stateDiagram
    Assets&Uses --> SecurityPicture
    Networks&Access --> SecurityPicture
@@ -8,7 +7,7 @@ stateDiagram
    SecurityPicture --> AssessingTheRisks
    DefenceOptions --> ActionPlan
    AssessingTheRisks --> ActionPlan
-</pre>
+
 
 We will go through each of these in more detail below, but essentially that's the playbook to follow. 
 
