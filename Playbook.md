@@ -7,7 +7,7 @@ stateDiagram
    SecurityPicture --> AssessingTheRisks
    DefenceOptions --> ActionPlan
    AssessingTheRisks --> ActionPlan
-
+```
 
 We will go through each of these in more detail below, but essentially that's the playbook to follow. 
 
